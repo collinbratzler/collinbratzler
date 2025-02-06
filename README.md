@@ -1,8 +1,6 @@
-<br>
-
+<div align="center">
 ![](under-construction.gif)
-
-<br>
+</div>
 
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
@@ -11,5 +9,5 @@
 </div>
 
 - 👋 Hi, I’m Collin Bratzler
-- 🌱 I like rock climbing, surging, and yoga
+- 🌱 I like rock climbing, surfing, and yoga
 - ⚡ Fun fact: I play DnD on the weekends
